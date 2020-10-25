@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744859185439",
+    "firebase_url": "https://hippodromeapp-9be4f.firebaseio.com",
+    "project_id": "hippodromeapp-9be4f",
+    "storage_bucket": "hippodromeapp-9be4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744859185439:android:9ea6b03ff23a3b75a2c02a",
+        "android_client_info": {
+          "package_name": "com.hippodrome_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744859185439-o46mom41vvmeojbf6do3pnppgf3kntdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hippodrome_app2",
+            "certificate_hash": "21d5de8ae2c935ee90deb00493e3b9244c55d8cc"
+          }
+        },
+        {
+          "client_id": "744859185439-2a8tdf0vd6brfeaog7dfeeub8vvh79j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOz3YI2nl03exOq5kDSX2fVRHsTeo8IPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744859185439-2a8tdf0vd6brfeaog7dfeeub8vvh79j7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "744859185439-joirpum4t76aa5u5f9dg88h463torooe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "did"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

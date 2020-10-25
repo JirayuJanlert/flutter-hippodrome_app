@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>744859185439-pelvfeo61mlaelgpndhd5822tf4gf7pk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.744859185439-pelvfeo61mlaelgpndhd5822tf4gf7pk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>744859185439-o46mom41vvmeojbf6do3pnppgf3kntdm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIfpey1RE8bmdFjvXcSQhd0oRpJ_bjCTo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>744859185439</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hippodromeapp</string>
+	<key>PROJECT_ID</key>
+	<string>hippodromeapp-9be4f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hippodromeapp-9be4f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:744859185439:ios:edf22644608675b6a2c02a</string>
+	<key>DATABASE_URL</key>
+	<string>https://hippodromeapp-9be4f.firebaseio.com</string>
+</dict>
+</plist>
