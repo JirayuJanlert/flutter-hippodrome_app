@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="/assets/icons" alt="Logo" width="80" height="80">
+  <a href="https://github.com/jirayujanlert/flutter-hippodrome_app">
+    <img src="https://github.com/JirayuJanlert/flutter-hippodrome_app/blob/main/assets/icons/Logo.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Hippodrome app</h3>
