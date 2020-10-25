@@ -18,8 +18,8 @@
 ## About The Project
 
 
-This is a cinema ticket booking appThe app is developed using flutter
-Use cloud firestore as app's data store 
+This is a cinema ticket booking app devloped as a final project of mobile application development course.
+
 Main features:
 * Login and Register using firebase
 * Google authentication using firebase
