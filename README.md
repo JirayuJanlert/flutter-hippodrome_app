@@ -30,7 +30,7 @@ Main features:
 * View booking history
 
 Demo:
-
+Click picture to visit youtube video
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/67780932/109778954-05aa6d00-7c38-11eb-880f-dfeab060aba6.png)](https://youtu.be/eqE1hD4D9h4 "Hippodrome App Demo")
 
