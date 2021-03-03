@@ -29,6 +29,10 @@ Main features:
 * Show theatre location
 * View booking history
 
+Demo:
+![image](https://user-images.githubusercontent.com/67780932/109778235-29b97e80-7c37-11eb-86dc-0cdf84f84954.png)
+
+
 
 ### Built With
 
