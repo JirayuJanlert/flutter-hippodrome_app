@@ -57,7 +57,6 @@ class _SelectTypeState extends State<SelectType> {
 
 
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
       backgroundColor: Colors.white,
       appBar: central.buildBuyTicketsAppBar("Buy Ticket"),
       body: ListView(

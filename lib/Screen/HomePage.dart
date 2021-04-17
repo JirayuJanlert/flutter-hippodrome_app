@@ -92,7 +92,6 @@ class _HomePageState extends State<HomePage>
     // double w = MediaQuery.of(context).size.width;
 
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
       backgroundColor: Colors.white,
       appBar: AppBar(
         elevation: 5,
@@ -152,7 +151,7 @@ class _HomePageState extends State<HomePage>
           child: Column(
             children: <Widget>[
               SizedBox(
-                  height: h * 0.06,
+                  height: h * 0.07,
                   child: CategoryList(
                     categories: central.categories,
                     changePage: changePageViewPostion,
@@ -362,7 +361,7 @@ class _HomePageState extends State<HomePage>
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
           mainAxisSpacing: MediaQuery.of(context).size.height * 0.00001,
           crossAxisSpacing: MediaQuery.of(context).size.width * 0.042,
-          childAspectRatio: MediaQuery.of(context).size.height * 0.00062,
+          childAspectRatio: MediaQuery.of(context).size.height * 0.00068,
           crossAxisCount: 2,
         ),
         itemBuilder: (BuildContext context, int index) {

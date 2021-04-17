@@ -64,7 +64,6 @@ class _LoginPageState extends State<LoginPage> {
               ],
             ))
       ],
-      resizeToAvoidBottomPadding: false,
     );
   }
 }

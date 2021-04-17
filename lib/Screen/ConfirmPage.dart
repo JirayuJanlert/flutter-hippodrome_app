@@ -80,7 +80,6 @@ class _ConfirmPageState extends State<ConfirmPage> {
     });
     return Scaffold(
       resizeToAvoidBottomInset: false,
-        resizeToAvoidBottomPadding: false,
 
         appBar: central.buildBuyTicketsAppBar("Confirm & Pay"),
         body: SingleChildScrollView(

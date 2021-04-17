@@ -30,7 +30,6 @@ class _SignupPageState extends State<SignupPage> {
   Widget build(BuildContext context) {
     var central = Provider.of<Robot>(context);
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
       backgroundColor: Colors.white,
       appBar: AppBar(
         elevation: 0,

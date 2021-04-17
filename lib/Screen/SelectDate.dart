@@ -44,7 +44,6 @@ class _SelectDateState extends State<SelectDate> {
     }
 
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
       backgroundColor: Colors.white,
       appBar: central.buildBuyTicketsAppBar("Buy Ticket"),
       body: ListView(

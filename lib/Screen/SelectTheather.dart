@@ -46,7 +46,6 @@ class _SelectTheaterState extends State<SelectTheater> {
     print(bookinInfo.length);
 
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
       backgroundColor: Colors.white,
       appBar:central.buildBuyTicketsAppBar("Buy Ticket"),
       body: ListView(

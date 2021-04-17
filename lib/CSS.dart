@@ -16,8 +16,7 @@ const headline2 = TextStyle(
 const headline1 = TextStyle(
     fontSize: 18, fontWeight: FontWeight.w800, color: Colors.deepPurple);
 const text2 = TextStyle(fontSize: 12, color: Colors.black);
-const text3 = TextStyle(
-    fontSize: 22, fontWeight: FontWeight.bold, color: Colors.black,);
+const text3 = TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.black,);
 
 BoxShadow defaultBoxShadow =  BoxShadow(
 color: Colors.grey.withOpacity(0.5),
